@@ -1,0 +1,21 @@
+h1 {
+  font-size: 48px;
+  color: red;
+}
+
+#title {
+  color: black !important;
+}
+
+div {
+  width: 60px;
+  height: 60px;
+}
+
+.pierwszy {
+  background-color: aqua;
+}
+
+.drugi {
+  background-color: pink;
+}
